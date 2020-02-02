@@ -67,6 +67,12 @@ h3{
 
 @media screen and (max-width: 768px){
 
+
+	main{
+		width: 100%;
+		margin:50px auto;
+	}
+
 	.step-box{
 		float:none;
 		margin: 0 auto 20px auto ;
@@ -74,24 +80,22 @@ h3{
 
 	}
 
-	main{
-		width: 440px;
-		margin:50px auto;
-	}
-
 	.step-box:nth-child(3){
 		margin: 0 auto;
 	}
 
 	.img1{
-		width: 374px;
+		width: 100%;
 	}
+
 	.img2{
-		width: 374px;
+		width: 100%;
 	}
+
 	.img3{
-		width: 374px;
+		width: 100%;
 	}
+
 }
 
 
