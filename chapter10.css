@@ -64,4 +64,51 @@ span{
 h3{
 	margin: 15px 0 5px;
 }
-aaa
+
+@media screen and (max-width: 768px){
+
+	.step-box{
+		float:none;
+		margin: 0 auto 20px auto ;
+		width: 90%;
+
+	}
+
+	main{
+		width: 440px;
+		margin:50px auto;
+	}
+
+	.step-box:nth-child(3){
+		margin: 0 auto;
+	}
+
+	.img1{
+		width: 374px;
+	}
+	.img2{
+		width: 374px;
+	}
+	.img3{
+		width: 374px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	)
